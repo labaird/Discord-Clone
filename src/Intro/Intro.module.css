@@ -1,0 +1,51 @@
+.Intro {
+    background-color: #404eed;
+    /* display: inline-block; */
+    padding: 45px 20px 0px 20px;
+}
+
+.Intro h1 {
+    padding-bottom: 32px;
+    line-height: 1em;
+    font-family: "Ginto Nord","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.Intro h1, p {
+    color: white;
+    margin: 0px;
+}
+
+.Intro p {
+    font-size: 15px;
+    line-height: 1.75;
+}
+
+.IntroTop {
+    padding-bottom: 28px;
+}
+
+.IntroBody {
+    padding-bottom: 70px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.Intro button {
+    margin: 0px;
+    border-radius: 1.25em;
+    font-size: 20px;
+}
+
+/* .IntroDownloadButton button {
+    background-color: white;
+    color: black;
+} */
+
+.browserButton {
+    background-color: #23272a;
+    width: 272px;
+    padding: 15px;
+}

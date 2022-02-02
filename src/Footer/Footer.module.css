@@ -1,0 +1,25 @@
+.Footer {
+    background-color: #23272a;
+    padding: 0px 20px;
+}
+
+.Footer h1 {
+    color: #5865f2;
+}
+
+.Footer hr {
+    border: 1px solid #5865f2;
+    margin: 46px 0px;
+}
+.Footer nav {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 52px;
+}
+
+.Footer nav button {
+    background-color: #5865f2;
+    color: white;
+    padding: 16px;
+    border-radius: 1rem;
+}

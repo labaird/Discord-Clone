@@ -1,0 +1,26 @@
+
+.DownloadButton img {
+    padding-right: 10px;
+}
+
+.DownloadButton button {
+    border-radius: 1.25em;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 249px;
+    height: 80px;
+    padding-right: 45px;
+    text-align: left;
+}
+
+.purpleButton {
+    background-color: #5865f2;
+    color: white;
+}
+
+.whiteButton {
+    background-color: white;
+    color: black;
+}

@@ -1,0 +1,27 @@
+.FooterLinks {
+    font-size: 15px;
+    font-weight: 100;
+    font-family: "Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    grid-template-rows: repeat(2, 1fr);
+}
+
+/* How do I shorten the height of the grid? Where is the height coming from? */
+
+.FooterLinks h1 {
+    margin-block-end: 0px;
+    font-weight: 100;
+    font-size: 15px;
+}
+
+.footerLinksSection {
+    display: flex;
+    flex-direction: column;
+    line-height: 2.5em;
+    color: white;
+}
+
+.footerLinksSection a:link, a:visited, a:hover, a:active {
+    color: white;
+}
