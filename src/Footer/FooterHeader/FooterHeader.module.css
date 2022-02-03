@@ -1,3 +1,18 @@
 .FooterHeader {
     color: white;
+    padding-top: 82px;
+    padding-bottom: 72px;
+}
+
+.location {
+  padding-bottom: 28px;
+}
+
+.flag {
+  width: 24px;
+  padding-right: 9px;
+}
+
+.socialMedia img {
+  padding-right: 28px;
 }
